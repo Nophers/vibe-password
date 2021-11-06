@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/konicord-server
+konicord-server.so
+konicord-server.dylib
+konicord-server.dll
+konicord-server.a
+konicord-server.lib
+konicord-server-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Koni"
+	],
+	"copyright": "Copyright © 2021, Koni",
+	"dependencies": {
+		"graphqld": "~>3.10.0",
+		"nullablestore": "~>2.1.0",
+		"requests": "~>2.0.2",
+		"vibe-d": "~>0.9"
+	},
+	"description": "Backend from Konicord",
+	"license": "proprietary",
+	"name": "konicord-server"
+}
